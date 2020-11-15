@@ -41,7 +41,7 @@ Password Locker is python application that runs in terminal and allows users to 
 
 ## Technologies Used
 
-It used Python.
+It was designed using Python.
 
 ## Support and contact details
 
