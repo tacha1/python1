@@ -51,6 +51,6 @@ For any issues or questions, ideas or concern, please contact me on my e-mail: a
 
 MIT license
 
-Copyright (c) 2019 Moringa School
+Copyright (c) 2020 Moringa School
 
 Created with all the love in the world, enjoy it is free of charge.
