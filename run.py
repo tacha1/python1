@@ -83,11 +83,11 @@ def main():
 			user_name = input('Enter your first name - ').strip()
 			password = str(input('Enter your password - '))
 			user_exists = verify_user(user_name,password)
-			if user_exists == user_name:
+	if user_exists == user_name:
 				print(" ")
 				print(f'Welcome {user_name}. Please choose an option to continue.')
 				print(' ')
-				while True:
+	while True:
 					print("-"*60)
 					print('Navigation codes: \n cc-Create a Credential \n dc-Display Credentials \n copy-Copy Password \n ex-Exit')
 					short_code = input('Enter a choice: ').lower().strip()
@@ -142,11 +142,11 @@ def main():
 					else:
 						print('Try again.')
 
-			else: 
+        else: 
 				print(' ')
 				print('Try again or Create an Account.')		
 		
-		else:
+            else:
 			print("-"*60)
 			print(' ')
 			print('Try again.')				
