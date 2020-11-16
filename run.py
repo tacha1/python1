@@ -84,7 +84,7 @@ def main():
 			password = str(input('Enter your password - '))
 			user_exists = verify_user(user_name,password)
 			if user_exists == user_name:
-				print(" ")
+				print("_"*60)
 				print(f'Welcome {user_name}. Please choose an option to continue.')
 				print(' ')
 				while True:
